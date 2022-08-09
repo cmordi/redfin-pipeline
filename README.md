@@ -4,9 +4,10 @@
 
 Using past and present housing market data to determine the premier areas to invest in Seattle
 
+## Data 
 
-## Acknowledgements:
+### Things to note:
 
-The majority of this data was pulled from Redfin 
+Redfin does not have an API. I pulled the data from their Data Center
 
 Real Estate, Homes for Sale, MLS Listings, Agents | Redfin. https://www.redfin.com/. 
