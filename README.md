@@ -2,7 +2,7 @@
 
 ## Aim
 
-Using past and present housing market data to determine the premier areas to invest in Seattle (This is a pipeline, I will not use predictive models at this point in time)
+Using past and present housing market data to determine the premier areas to invest in Seattle 
 
 ## Data 
 
